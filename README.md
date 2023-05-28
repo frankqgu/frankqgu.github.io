@@ -2,7 +2,7 @@
 
 My name is **Qingyang Gu (青阳谷)**. Here is my personal website. Welcome!
 
-In addition , [my Chinese Website](https://mieclance.club/) averages over 200+ unique visits monthly, [my Zhihu](https://www.zhihu.com/people/chlire) account has more than 1500+ followers and 15000+ likes. In addition, [my Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) possesses around 2000 fans.
+In addition, [My Translation Works](https://www.youtube.com/@XiaoLaoBanEkko) averages over 1000+ unique visits daily, [My Youtube](https://www.youtube.com/channel/UCrtZPHiMmPjwVA-JHE4Epqg) Is where I make content around fintech, education experiences, and tutorials on my special areas. On the side, [My Behance](https://www.behance.net/frankqgu) (Content Creation) includes work from hundreds of clients and attracts 5,000,000+ views.
 
 ## Update and News
 
@@ -11,10 +11,10 @@ In addition , [my Chinese Website](https://mieclance.club/) averages over 200+ u
 - **Feb. 2023:** If you have any problem, please feel free to contact me - [Online Talk 15mins](https://calendly.com/lancecai/meet-with-lance)
 - **Dec. 2022:** My personal website have been implemented and deployed in [caihanlin.com](https://caihanlin.com)
 
-## Star History
+## Update and News
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+- **[News] I am actively searching for internships and experience oppertunities, please contact me!**
 
 ## Statement
 
-© 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2023 Qingyang Gu. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/frankqgu/frankqgu.github.io).
