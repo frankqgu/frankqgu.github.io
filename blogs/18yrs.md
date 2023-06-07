@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/18yrs/index.html
-title: 18yrs
+permalink: /blogs/18yr/index.html
+title: 18yr
 ---
 
 ## Magic number has been reached. Now What? :blush:
@@ -9,7 +9,7 @@ title: 18yrs
 > Philosophy：efficiency and efficacy
 
 <center>
-<img src = "blogs\web.assets\self1.jpg">
+<img src = "blogs\18.assets\self1.jpg"> 
 </center>
 
 

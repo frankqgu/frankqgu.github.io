@@ -10,7 +10,7 @@ title: Blogs
 ## 2023
 
 - ### June<br>
-> [WAFS's Presentation was a huge success!](https://frankqgu.github.io/blogs/18yrs)<br>
+> [WAFS's Presentation was a huge success!](https://frankqgu.github.io/blogs/18yr)<br>
 
 
 <br>
