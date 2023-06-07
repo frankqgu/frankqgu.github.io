@@ -9,7 +9,7 @@ title: 18yr
 > Philosophy：efficiency and efficacy
 
 <center>
-<img src = "blogs\18.assets\self1.jpg"> 
+<img src="blogs\18.assets\self1.jpg"> 
 </center>
 
 
