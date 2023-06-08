@@ -57,7 +57,7 @@ I was able to contribute to a lot to the student life and community off some ski
 
 ### Bucketlists
 
-<img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="vertical-align:middle;margin:50px 50px">
+<img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="float:right;margin:50px 50px">
 
 ```yaml
 Programming:
