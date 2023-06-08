@@ -5,7 +5,7 @@ title: 18yr
 ---
 
 # 18. Magical number. Magical moment. Magical life. Now What?
-<img src="18yr.asset\self1.jpg"  width="265" height="350" ALIGN="right" style="vertical-align:middle;margin:0px 50px"> 
+<img src="blogs/18yr.asset/self1.jpg"  width="265" height="350" ALIGN="right" style="vertical-align:middle;margin:0px 50px"> 
 
 > Philosophy：efficiency and efficacy
 
