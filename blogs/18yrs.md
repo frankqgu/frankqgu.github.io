@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/18yr/index.html
+permalink: /blogs/index.html
 title: 18yr
 ---
 
