@@ -42,6 +42,11 @@ The first thing I did on the night of  my birthday was to instantly sign up for 
 
 Since young, I've been invested with **Motion Editing** and **Digital Photography**. I've considered commiting my interest into this field, but I feel like it's work requires a heavy amount of subjectivness and personality more than anything. However, I look to solve objective problems. I feel that my energy can be more effiecently used in a STEM field rather than an artistic field. I've recieved awards and honors from many different art classes and historically excelled in them. *Yet*, I think I was more towards my hard working trait that I can really look to go beyond the expectations and create something innovative and new. Which links me back to programming, where I feel like I can go as deep as I can and still produce amazing results.
 
+
+<img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="float:right;margin:0px 50px">
+
+
+
 ### Graphics Designing
 
 Graphics designing have seriously put in work. I realized how much I can utilize my knowledge in **Adobe Suite** and easily create amazing *Presentations* and *Posters*. So far, I've created:
@@ -57,9 +62,7 @@ I was able to contribute to a lot to the student life and community off some ski
 
 ### Bucketlists
 
-<img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="float:right;margin:0px 50px">
-
-```yaml
+```java 
 Programming:
 - Finish Language Courses
 - Discrete math
