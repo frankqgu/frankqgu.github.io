@@ -54,7 +54,7 @@ Graphics designing have seriously put in work. I realized how much I can utilize
 I was able to contribute to a lot to the student life and community off some skills I learned by myself, it felt really good and authentic. I wish to continue doing this with whatever skill I may obtain in the future.
 
 <center>
-<img src="https://raw.githubusercontent.com/frankqgu/frankqgu.github.io/main/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="vertical-align:middle;margin:0px 50px">
+<img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="vertical-align:middle;margin:0px 50px">
 </center>
 
 ---
