@@ -5,7 +5,7 @@ title: 18yr
 ---
 
 # 18. Magical number. Magical moment. Magical life. Now What?
-<img src="blogs\18yr.asset\self1.jpg"  width="265" height="350" ALIGN="right" style="vertical-align:middle;margin:0px 50px"> 
+<img src="18yr.asset\self1.jpg"  width="265" height="350" ALIGN="right" style="vertical-align:middle;margin:0px 50px"> 
 
 > Philosophy：efficiency and efficacy
 
@@ -54,7 +54,7 @@ Graphics designing have seriously put in work. I realized how much I can utilize
 I was able to contribute to a lot to the student life and community off some skills I learned by myself, it felt really good and authentic. I wish to continue doing this with whatever skill I may obtain in the future.
 
 <center>
-<img src="blogs\18yr.asset\photo.jpg" width="265" height="400" ALIGN="right" style="vertical-align:middle;margin:0px 50px">
+<img src="18yr.asset\photo.jpg" width="265" height="400" ALIGN="right" style="vertical-align:middle;margin:0px 50px">
 </center>
 
 ---
