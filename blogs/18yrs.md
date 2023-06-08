@@ -41,7 +41,7 @@ The first thing I did on the night of  my birthday was to instantly sign up for 
 ## Content Creation
 
 Since young, I've been invested with **Motion Editing** and **Digital Photography**. I've considered commiting my interest into this field, but I feel like it's work requires a heavy amount of subjectivness and personality more than anything. However, I look to solve objective problems. I feel that my energy can be more effiecently used in a STEM field rather than an artistic field. I've recieved awards and honors from many different art classes and historically excelled in them. *Yet*, I think I was more towards my hard working trait that I can really look to go beyond the expectations and create something innovative and new. Which links me back to programming, where I feel like I can go as deep as I can and still produce amazing results.
-
+<br>
 
 <img src="https://frankqgu.github.io/blogs/18yr.asset/photo.jpg" width="265" height="400" ALIGN="right" style="float:right;margin:0px 50px">
 
@@ -80,6 +80,8 @@ Personal:
 - Visit China again
 ```
 **It seems that the twists and turns I've encountered in the past have all been arranged appropriately and reasonably now. Maybe it's not right, maybe it's not satisfactory, or it's meant to dissatisify. But looking back, it seems that I also encountered more happiness and a broader future.**
+
+<br>
 
 To be or not to be. The question of life
 
