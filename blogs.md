@@ -12,10 +12,12 @@ title: Blogs
 - ### June<br>
 > [WAFS's Presentation was a huge success!](https://frankqgu.github.io/blogs/18yr)<br>
 
-
 <br>
 
-## Leave a Message
+## 2022
+
+- ### October<br>
+> [WAFS's Presentation was a huge success!](https://frankqgu.github.io/blogs/18yr)<br>
 
 <br>
 
