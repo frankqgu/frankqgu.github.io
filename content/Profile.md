@@ -2,7 +2,7 @@
 - Qingyang Gu Portfolio
 
 ## Header
-- Hi, my name is Qingyang. 
+- Hi, my name is Qingyang  Gu. 
 - I'm a software engineer.
 - Short Description Here.
 
