@@ -15,4 +15,4 @@ Greater Hartford Area, CT, EST-5
 - Email: frank.q.gu@gmail.com
 
 ## Logo
-- EB
+- QG
