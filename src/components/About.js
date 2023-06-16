@@ -15,7 +15,7 @@ export default function About({ color }) {
         <Container maxW={"3xl"} id="about">
           <Stack
             as={Box}
-            textAlign={"center"}
+            textAlign={"left"}
             spacing={{ base: 8, md: 14 }}
             pb={{ base: 20, md: 36 }}
           >
@@ -29,8 +29,8 @@ export default function About({ color }) {
               <Divider orientation="horizontal" />
             </Stack>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
+            <img class="imgmain" src="self0.png" alt="My Awesome" width="200" height="300" align="right" ></img>
               {profile.about}
-              <img class="imgmain" src="self0.png" alt="My Awesome" width="200" height="300" align="right">></img>
             </Text>
           </Stack>
         </Container>
