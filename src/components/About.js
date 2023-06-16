@@ -30,7 +30,7 @@ export default function About({ color }) {
             </Stack>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.about}
-              <img class="imgmain" src="self0.jpg" alt="My Awesome" width="200" height="300"></img>
+              <img class="imgmain" src="self0.png" alt="My Awesome" width="200" height="300" align="right">></img>
             </Text>
           </Stack>
         </Container>
