@@ -5,15 +5,10 @@ import {
   Container,
   Box,
   HStack,
-  List,
-  ListItem,
-  ListIcon,
-  OrderedList,
-  UnorderedList,
+
 } from "@chakra-ui/react";
 import ProfileArray from "./ProfileArray";
-import { MdCheckCircle } from "react-icons/md";
-import { MdSettings } from "react-icons/md";
+
 
 export default function About({ color }) {
   const profile = ProfileArray();
@@ -39,25 +34,6 @@ export default function About({ color }) {
             <img class="imgmain" src="self0.png" alt="My Awesome" width="200" height="300" align="right" ></img>
               {profile.about}
             </Text>
-            <List spacing={3}>
-  <ListItem>
-    <ListIcon as={MdCheckCircle} color='green.500' />
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit
-  </ListItem>
-  <ListItem>
-    <ListIcon as={MdCheckCircle} color='green.500' />
-    Assumenda, quia temporibus eveniet a libero incidunt suscipit
-  </ListItem>
-  <ListItem>
-    <ListIcon as={MdCheckCircle} color='green.500' />
-    Quidem, ipsam illum quis sed voluptatum quae eum fugit earum
-  </ListItem>
-  {/* You can also use custom icons from react-icons */}
-  <ListItem>
-    <ListIcon as={MdSettings} color='green.500' />
-    Quidem, ipsam illum quis sed voluptatum quae eum fugit earum
-  </ListItem>
-</List>
           </Stack>
         </Container>
       </>
