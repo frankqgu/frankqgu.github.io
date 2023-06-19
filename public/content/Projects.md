@@ -1,7 +1,7 @@
 ## WAFS Digital Solution
 Website, App, Forms and Scan. A revolutionized digital hall pass that features 4 different models. Featured and endorsed by school district. Used by 1000+ students. Highlights include web development, scripting, functions, and UI design.
 - ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+- Tags: Front-End
 - Badges:
   - HTML [orange] 
   - Javascript [red]
@@ -21,7 +21,7 @@ A script and program that pulled and exported ecommerce product reviews into XML
 - Buttons:
   - Link [https://example.com]
 
-## W
+## Personal Website Portfolio
 Description
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 3
