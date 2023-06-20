@@ -39,11 +39,11 @@ import { useState, useEffect } from "react";
                 <Divider orientation="horizontal" />
               </Stack>
               <Zoom bottom>
-    <Box as='button' borderRadius='md' bg='Teal' color='GhostWhite'p={8} boxShadow='dark-lg' >
+    <Box as='button' borderRadius='md' bg='BlackAlpha 800' color='GhostWhite'p={8} boxShadow='dark-lg' >
     <List spacing={3}>
     <ListItem>
       <ListIcon as={MdCheckCircle} color='green.500' />
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit Lorem ipsum dolor sit amet, consectetur adipisicing elit
+      <b>Lorem ipsum dolor sit amet,</b> consectetur adipisicing elit Lorem ipsum dolor sit amet, consectetur adipisicing elit
     </ListItem>
     <ListItem>
       <ListIcon as={MdCheckCircle} color='green.500' />
