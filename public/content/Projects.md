@@ -8,7 +8,7 @@ Website, App, Forms and Scan. A revolutionized digital hall pass that features 4
   - WordPress [blue]
   - Spreadsheets [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://cthallpass.great-site.net/]
 
 ## JD.com Data visualization Software
 A script and program that pulled and exported ecommerce product reviews into XML format. Which then can be uploaded to MySQL database in table format in order to generate word clouds and graphs. Or, it can be organized and viewed in Excel.
@@ -20,22 +20,16 @@ A script and program that pulled and exported ecommerce product reviews into XML
   - Spreadsheets [green]
   - Scrapy [black]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/frankqgu/Data-Visualization-JD.com]
 
 ## Personal Website Portfolio
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+My current portfolio website is made primarily using Chakra UI and React. With Github pages to help host its domain. It features dynamic motions, custom ui, and a single page catalog organized with navigation controls. It's fork friendly with markdown editing.
+- ![600x200](okokok.png)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - React [purple]
+  - HTML [orange] 
+  - Javascript [red]
+  - Chakra UI [white]
 - Buttons:
-  - Link [https://example.com]
-
-## W
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Link [https://frankqgu.github.io/]

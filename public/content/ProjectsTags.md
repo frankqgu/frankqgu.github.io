@@ -1,4 +1,3 @@
-All
 WebDev
 DataSci
 Software
