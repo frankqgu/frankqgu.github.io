@@ -62,6 +62,7 @@ export default function Projects({ color }) {
                   overflow="hidden"
                 >
                   <Image objectFit="cover" src={project.image} />
+
                   <Stack>
                     <CardBody align="left">
                       <Heading size="md">{project.name}</Heading>
