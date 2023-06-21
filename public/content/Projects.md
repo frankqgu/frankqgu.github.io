@@ -12,12 +12,13 @@ Website, App, Forms and Scan. A revolutionized digital hall pass that features 4
 
 ## JD.com Data visualization Software
 A script and program that pulled and exported ecommerce product reviews into XML format. Which then can be uploaded to MySQL database in table format in order to generate word clouds and graphs. Or, it can be organized and viewed in Excel.
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](Untitled-1.jpg)
 - Tags: Category 2
 - Badges:
   - MySQL [pink]
   - Python [yellow]
   - Spreadsheets [green]
+  - Scrapy [black]
 - Buttons:
   - Link [https://example.com]
 
