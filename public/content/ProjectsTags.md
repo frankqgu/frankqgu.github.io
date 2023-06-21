@@ -1,3 +1,3 @@
-WebDev
+DevOps
 DataSci
-Software
+WebDev
