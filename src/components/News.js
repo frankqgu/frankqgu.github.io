@@ -8,10 +8,7 @@ import {
     List,
     ListItem,
     ListIcon,
-    OrderedList,
-    UnorderedList,
   } from "@chakra-ui/react";
-  import ProfileArray from "./ProfileArray";
   import { MdCheckCircle } from "react-icons/md";
   import { MdSettings } from "react-icons/md";
   import { Zoom } from "react-reveal";
@@ -19,11 +16,8 @@ import {
   import { MdOutlineWeb } from "react-icons/md";
 
 
-import { useState, useEffect } from "react";
 
   export default function News({ color }) {
-    const profile = ProfileArray();
-    const [selected, setSelected] = useState("");
       return (
         <>
           <Container maxW={"3xl"} id="News">
