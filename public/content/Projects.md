@@ -1,7 +1,7 @@
 ## WAFS Digital Solution
 Website, App, Forms and Scan. A revolutionized digital hall pass that features 4 different models. Featured and endorsed by school district. Used by 1000+ students. Highlights include web development, scripting, functions, and UI design.
 - ![600x200](wafs.jpg)
-- Tags: Front-End
+- Tags: DataSci
 - Badges:
   - HTML [orange] 
   - Javascript [red]
@@ -13,7 +13,7 @@ Website, App, Forms and Scan. A revolutionized digital hall pass that features 4
 ## JD.com Data visualization Software
 A script and program that pulled and exported ecommerce product reviews into XML format. Which then can be uploaded to MySQL database in table format in order to generate word clouds and graphs. Or, it can be organized and viewed in Excel.
 - ![600x200](Untitled-1.jpg)
-- Tags: Category 2
+- Tags: DataSci
 - Badges:
   - MySQL [pink]
   - Python [yellow]
@@ -25,7 +25,7 @@ A script and program that pulled and exported ecommerce product reviews into XML
 ## Personal Website Portfolio
 My current portfolio website is made primarily using Chakra UI and React. With Github pages to help host its domain. It features dynamic motions, custom ui, and a single page catalog organized with navigation controls. It's fork friendly with markdown editing.
 - ![600x200](okokok.png)
-- Tags: Category 3
+- Tags: DataSci
 - Badges:
   - React [purple]
   - HTML [orange] 
