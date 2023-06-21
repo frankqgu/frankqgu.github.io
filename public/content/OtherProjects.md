@@ -1,6 +1,6 @@
 ## PairALegal
 Chatbot paired with a website depository filled with succinct profiles of lawyers offering their services.
-- Tags: WebDev
+- Tags: 1
 - Badges:
   - HTML [red]
   - CSS [blue]
@@ -10,7 +10,7 @@ Chatbot paired with a website depository filled with succinct profiles of lawyer
 
 ## Trello-Postman Client
 Trello API optimised as a collection for Postman.
-- Tags: DataSci
+- Tags: 1
 - Badges:
   - Postman [orange]
 - Buttons:
