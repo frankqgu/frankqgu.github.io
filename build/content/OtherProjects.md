@@ -1,9 +1,8 @@
-## PairALegal
-Chatbot paired with a website depository filled with succinct profiles of lawyers offering their services.
+## PDF Script
+My First Project! Done in junior high to help classmates print double sided assignments by merging files into 1.
 - Tags: 1
 - Badges:
-  - HTML [red]
-  - CSS [blue]
+  - Python [yellow]
 - Buttons:
   - Live Site [https://eldoraboo.github.io/PairALegal/]
   - GitHub Repo [https://github.com/eldoraboo/PairALegal]
