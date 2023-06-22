@@ -15,8 +15,8 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - THe one
+  - The 2
 
 ## Company 3
 - *Role* | Mar'23 - Apr'23
