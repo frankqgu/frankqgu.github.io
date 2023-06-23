@@ -9,7 +9,7 @@ My First Project! Done in junior high to help classmates print double sided assi
 
   ## Review Scraper JD.com
 Using Python and MySQL to scrape reviews of products from JD.com. Which then is exported to .XML and be reviewed as word clouds
-- Tags: s
+- Tags: DataSci
 - Badges:
   - Python [yellow]
   - SQL [pink]
