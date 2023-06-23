@@ -21,7 +21,7 @@
 ## Nyro
 - *Media Manager* | Jun'21 - Dec'21
 - ![logo512](unnamed.png)
-- Tags: Buisness
+- Tags: Buisness, All
 - Badges:
   - Badge [blue]
 - List Items:
