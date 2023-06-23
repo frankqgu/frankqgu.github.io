@@ -8,15 +8,16 @@
   - Point 1
   - Point 2
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: All
+## Big Data Technology CO, LTD.
+- *Assistant Jr. Engineer* | Apr'23 - Jun'23
+- ![logo512](bigdata.png)
+- Tags: Internship, All
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - extracted texts from diffrent .ppt and .word files to MySQL database 
+  - Trained GPT3 on Lessons guides, instructions, and specifications for easy lookup
+  - One on one training in Database work and Sql Tables with python scripts
 
 ## Nyro
 - *Media Manager* | Jun'21 - Dec'21
