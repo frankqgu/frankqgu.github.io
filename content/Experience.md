@@ -3,7 +3,9 @@
 - ![logo512](bigdata.png)
 - Tags: Internship, All
 - Badges:
-  - Badge [blue]
+  - Data Visualization [blue]
+  - Data Analysis [red]
+  - Scrapy [yellow]
 - List Items:
   - extracted texts from diffrent .ppt and .word files to MySQL database 
   - Trained GPT3 on Lessons guides, instructions, and specifications for easy lookup
@@ -14,7 +16,9 @@
 - ![logo512](unnamed.png)
 - Tags: Buisness, All
 - Badges:
-  - Badge [blue]
+  - Video Editing [purple]
+  - Graphic Design [orange]
+  - UI Animation [green]
 - List Items:
   - Co-Founded and operated as channel managers for Youtube and Tiktok 
   - Generated Over 10 million views and 1 million likes thru SEO Algorithm
