@@ -16,3 +16,14 @@ Using Python and MySQL to scrape reviews of products from JD.com. Which then is 
 - Buttons:
   - Live Site [https://eldoraboo.github.io/PairALegal/]
   - GitHub Repo [https://github.com/eldoraboo/PairALegal]
+
+## Humans of UCONN
+Imitated HumansOfNY as a school project. Used HTML with Bootstrap and Javascript. Photo Gallery with descriptions. Final Grade: 100%
+- Tags: WebDev
+- Badges:
+  - HTML [yellow]
+  - Bootstrap [pink]
+  - Javascript [brown]
+- Buttons:
+  - Live Site [https://eldoraboo.github.io/https://humansofuconn.netlify.app/index.html/]
+  - GitHub Repo [https://github.com/frankqgu/humansofuconn]
