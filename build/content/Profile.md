@@ -13,9 +13,12 @@ My interests are in Machine Learning and its applications in Consumer IoT. My cu
 
 ## Contact
 Greater Hartford Area, CT, EST-5
+
+- blog: https://medium.com/@frank.q.gu
 - LinkedIn: https://linkedin.com/in/qingyang-gu-908505240/
-- GitHub: https://github.com/username
+- GitHub: https://github.com/frankqgu
 - Email: frank.q.gu@gmail.com
+
 
 ## Logo
 - QG
