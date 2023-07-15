@@ -34,5 +34,5 @@ My current portfolio website is made primarily using Chakra UI and React. With G
   - Chakra UI [white]
 - Buttons:
   - Link [https://frankqgu.github.io/]
-  - Details
+  - Details [https://frankqgu.github.io/]
   - Github [https://github.com/frankqgu/frankqgu.github.io]
