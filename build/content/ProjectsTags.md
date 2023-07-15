@@ -1,3 +1,0 @@
-WebDev
-DataSci
-Software
