@@ -14,7 +14,7 @@ Using Python and MySQL to scrape reviews of products from JD.com. Which then is 
   - Python [yellow]
   - SQL [pink]
 - Buttons:
-  - Live Site [https://eldoraboo.github.io/PairALegal/]
+  - Link [https://eldoraboo.github.io/PairALegal/]
   - GitHub Repo [https://github.com/eldoraboo/PairALegal]
 
 ## Humans of UCONN
@@ -25,5 +25,17 @@ Imitated HumansOfNY as a school project. Used HTML with Bootstrap and Javascript
   - Bootstrap [pink]
   - Javascript [brown]
 - Buttons:
-  - Live Site [https://eldoraboo.github.io/https://humansofuconn.netlify.app/index.html/]
-  - GitHub Repo [https://github.com/frankqgu/humansofuconn]
+  - Link [https://eldoraboo.github.io/https://humansofuconn.netlify.app/index.html/]
+  - GitHub [https://github.com/frankqgu/humansofuconn]
+
+## Personal Website Portfolio
+My current portfolio website is made primarily using Chakra UI and React. With Github pages to help host its domain. It features dynamic motions, custom ui, and a single page catalog organized with navigation controls. It's fork friendly with markdown editing.
+- Tags: WebDev
+- Badges:
+  - React [purple]
+  - HTML [orange] 
+  - Javascript [red]
+  - Chakra UI [white]
+- Buttons:
+  - Link [https://frankqgu.github.io/]
+  - GitHub [https://github.com/frankqgu/humansofuconn]
