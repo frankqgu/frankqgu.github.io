@@ -20,19 +20,8 @@ A script and program that pulled and exported ecommerce product reviews into XML
   - Spreadsheets [green]
   - Scrapy [black]
 - Buttons:
-  - Link [https://github.com/frankqgu/Data-Visualization-JD.com]
-
-## Humans of UCONN
-Imitated HumansOfNY as a school project. Used HTML with Bootstrap and Javascript. Photo Gallery with descriptions. Final Grade: 100%
-- ![600x200](humansofuconn.png)
-- Tags: WebDev
-- Badges:
-  - HTML [yellow]
-  - Bootstrap [pink]
-  - Javascript [brown]
-- Buttons:
-  - Live Site [https://eldoraboo.github.io/https://humansofuconn.netlify.app/index.html/]
-  - GitHub Repo [https://github.com/frankqgu/humansofuconn]
+  - Details [https://github.com/frankqgu/Data-Visualization-JD.com]
+  - Github []
 
 ## Personal Website Portfolio
 My current portfolio website is made primarily using Chakra UI and React. With Github pages to help host its domain. It features dynamic motions, custom ui, and a single page catalog organized with navigation controls. It's fork friendly with markdown editing.
@@ -45,3 +34,5 @@ My current portfolio website is made primarily using Chakra UI and React. With G
   - Chakra UI [white]
 - Buttons:
   - Link [https://frankqgu.github.io/]
+  - Details
+  - Github [https://github.com/frankqgu/frankqgu.github.io]
