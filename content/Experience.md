@@ -1,3 +1,15 @@
+## UCONN Serverless Computing Lab.
+- *Undergraduate Research Assistant* | Aug'23 - June'24
+- ![logo512](bigdata.png)
+- Tags: Internship, All
+- Badges:
+  - Badge [blue]
+- List Items:
+  - extracted texts from diffrent .ppt and .word files to MySQL database 
+  - Compiled Training guides, instructions, and tool specifications for easy lookup
+  - One on one training in Database work and Sql Tables with python scripts
+
+
 ## Big Data Technology CO, LTD.
 - *Assistant Jr. Engineer* | Apr'23 - Jun'23
 - ![logo512](bigdata.png)
@@ -6,7 +18,7 @@
   - Badge [blue]
 - List Items:
   - extracted texts from diffrent .ppt and .word files to MySQL database 
-  - Trained GPT3 on Lessons guides, instructions, and specifications for easy lookup
+  - Compiled Training guides, instructions, and tool specifications for easy lookup
   - One on one training in Database work and Sql Tables with python scripts
 
 ## Nyro
