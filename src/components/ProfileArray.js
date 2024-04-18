@@ -6,6 +6,7 @@ const parseProfile = (mdContent) => {
     headerName: "",
     headerRole: "",
     headerDesc: "",
+    news: "",
     about: "",
     contact: "",
     linkedin: "",
@@ -27,6 +28,9 @@ const parseProfile = (mdContent) => {
           profile.headerName = lines[++i].substr(2).trim();
           profile.headerRole = lines[++i].substr(2).trim();
           profile.headerDesc = lines[++i].substr(2).trim();
+          break;
+        case "news":
+          profile.news = lines[++i].trim();
           break;
         case "About":
           profile.about = lines[++i].trim();
@@ -60,6 +64,7 @@ const ProfileArray = () => {
     headerName: "",
     headerRole: "",
     headerDesc: "",
+    news: "",
     about: "",
     contact: "",
     linkedin: "",

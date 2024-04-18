@@ -1,29 +1,46 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## UCONN Serverless Computing Lab.
+- *Undergraduate Research Assistant* | Aug'23 - June'24
+- ![logo512](bigdata.png)
+- Tags: Internship, All
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - extracted texts from diffrent .ppt and .word files to MySQL database 
+  - Compiled Training guides, instructions, and tool specifications for easy lookup
+  - One on one training in Database work and Sql Tables with python scripts
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+
+## UCONN Serverless Computing Lab.
+- *Undergraduate Research Assistant* | Aug'23 - June'24
+- ![logo512](bigdata.png)
+- Tags: Internship, All
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - extracted texts from diffrent .ppt and .word files to MySQL database 
+  - Compiled Training guides, instructions, and tool specifications for easy lookup
+  - One on one training in Database work and Sql Tables with python scripts
+
+
+## Big Data Technology CO, LTD.
+- *Assistant Jr. Engineer* | Apr'23 - Jun'23
+- ![logo512](bigdata.png)
+- Tags: Internship, All
+- Badges:
+  - Badge [blue]
+- List Items:
+  - extracted texts from diffrent .ppt and .word files to MySQL database 
+  - Compiled Training guides, instructions, and tool specifications for easy lookup
+  - One on one training in Database work and Sql Tables with python scripts
+
+## Nyro
+- *Media & Content Manager* | Jun'21 - Dec'21
+- ![logo512](unnamed.png)
+- Tags: Buisness, All
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Co-Founded and operated as channel managers for Youtube and Tiktok 
+  - Generated Over 10 million views and 1 million likes thru SEO Algorithm
+  - Proficent use of Adobe including PremierPro, Photoshop, and AfterEffects
