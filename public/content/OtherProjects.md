@@ -1,29 +1,23 @@
-## PDF Script
-My First Project! Done in junior high to help classmates print double sided assignments by merging files into 1.
-- Tags: s
+## Project 1
+Description
+- Tags: Category 1
 - Badges:
-  - Python [yellow]
+  - Badge [blue]
 - Buttons:
-  - GitHub [https://github.com/eldoraboo/PairALegal]
+  - Link [https://example.com]
 
-## Review Scraper JD.com
-Using Python and MySQL to scrape reviews of products from JD.com. Which then is exported to .XML and be reviewed as word clouds
-- Tags: DataSci
+## Project 2
+Description
+- Tags: Category 2
 - Badges:
-  - Python [yellow]
-  - SQL [pink]
+  - Badge [blue]
 - Buttons:
-  - GitHub [https://github.com/eldoraboo/PairALegal]
+  - Link [https://example.com]
 
-## Humans of UCONN
-Imitated HumansOfNY as a school project. Used HTML with Bootstrap and Javascript. Photo Gallery with descriptions. Final Grade: 100%
-- Tags: WebDev
+## Project 3
+Description
+- Tags: Category 3
 - Badges:
-  - HTML [yellow]
-  - Bootstrap [pink]
-  - Javascript [green]
+  - Badge [blue]
 - Buttons:
-  - Details [https://eldoraboo.github.io/PairALegal/]
-  - GitHub [https://github.com/eldoraboo/PairALegal]
-
-  
+  - Link [https://example.com]

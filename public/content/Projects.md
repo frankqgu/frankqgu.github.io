@@ -1,38 +1,26 @@
-## WAFS Digital Solution
-Website, App, Forms and Scan. A revolutionized digital hall pass that features 4 different models. Featured and endorsed by school district. Used by 1000+ students. Highlights include web development, scripting, functions, and UI design.
-- ![600x200](wafs.jpg)
-- Tags: DataSci
+## Project A
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 1
 - Badges:
-  - HTML [orange] 
-  - Javascript [red]
-  - WordPress [blue]
-  - Spreadsheets [green]
+  - Badge [blue]
 - Buttons:
-  - Link [https://cthallpass.great-site.net/]
+  - Link [https://example.com]
 
-## JD.com Data visualization Software
-A script and program that pulled and exported ecommerce product reviews into XML format. Which then can be uploaded to MySQL database in table format in order to generate word clouds and graphs. Or, it can be organized and viewed in Excel.
-- ![600x200](Untitled-1.jpg)
-- Tags: DataSci
+## Project B
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 2
 - Badges:
-  - MySQL [pink]
-  - Python [yellow]
-  - Spreadsheets [green]
-  - Scrapy [black]
+  - Badge [blue]
 - Buttons:
-  - Details [https://github.com/frankqgu/Data-Visualization-JD.com]
-  - Github []
+  - Link [https://example.com]
 
-## Personal Website Portfolio
-My current portfolio website is made primarily using Chakra UI and React. With Github pages to help host its domain. It features dynamic motions, custom ui, and a single page catalog organized with navigation controls. It's fork friendly with markdown editing.
-- ![600x200](okokok.png)
-- Tags: DataSci
+## Project C
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 3
 - Badges:
-  - React [purple]
-  - HTML [orange] 
-  - Javascript [red]
-  - Chakra UI [white]
+  - Badge [blue]
 - Buttons:
-  - Link [https://frankqgu.github.io/]
-  - Details []
-  - Github [https://github.com/frankqgu/frankqgu.github.io]
+  - Link [https://example.com]
