@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import {
   Box,
   Heading,
@@ -13,17 +14,24 @@ import ProfileArray from "./ProfileArray";
 
 export default function Header({ color }) {
   const profile = ProfileArray();
+  const [isSpotifyLink, setIsSpotifyLink] = useState(false);
+
   const scrollToContact = () => {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({ behavior: "smooth" });
   };
+
   const linkedin = () => {
-    window.open(
-                `${profile.linkedin}`,
-                "_blank",
-                "noreferrer,noopener"
-              );
+    window.open(`${profile.linkedin}`, "_blank", "noreferrer,noopener");
   };
+
+  useEffect(() => {
+    // Check if the description is a valid Spotify link
+    setIsSpotifyLink(
+      profile.headerDesc && profile.headerDesc.startsWith("https://open.spotify.com/")
+    );
+  }, [profile.headerDesc]);
+
   return (
     <>
       <Heading>
@@ -51,12 +59,38 @@ export default function Header({ color }) {
               {profile.headerRole}
             </Text>
           </Heading>
-          <Text
-            color={"gray.500"}
-            fontSize={{ base: "lg", sm: "xl", md: "2xl" }}
-          >
-            {profile.headerDesc}
-          </Text>
+
+          {/* Show Spotify iframe if headerDesc is a Spotify link */}
+          {isSpotifyLink ? (
+            <Box
+              display="flex"
+              justifyContent="center"
+              alignItems="center"
+              width="100%"
+              height="auto"
+              borderRadius="12px" // Optional: Add rounded corners to the box
+              p={0} // Optional: Add padding inside the box for spacing
+            >
+              <iframe
+                src={`https://open.spotify.com/embed?uri=${profile.headerDesc}&autoplay=true`}
+                width="50%"
+                height="80"
+                frameBorder="0"
+                allow="encrypted-media; autoplay"
+                style={{
+                  borderRadius: "12px",
+                }}
+              ></iframe>
+            </Box>
+          ) : (
+            <Text
+              color={"gray.500"}
+              fontSize={{ base: "lg", sm: "xl", md: "2xl" }}
+            >
+              {profile.headerDesc}
+            </Text>
+          )}
+
           <Stack
             direction={"column"}
             spacing={3}
